@@ -1,3 +1,4 @@
+//Take three integers and calculate their average.
 #include<stdio.h>
 int main (){
     float t,u,v;

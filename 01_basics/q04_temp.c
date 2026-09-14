@@ -1,3 +1,4 @@
+//Take a temperature in Celsius and convert it to Fahrenheit.
 #include<stdio.h>
 int main (){
     float t;
