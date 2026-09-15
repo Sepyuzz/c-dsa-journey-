@@ -1,6 +1,6 @@
 # C → DSA Journey
 
-Started: September 2026
+Started: 14 September 2026
 
 ## C Fundamentals
 
