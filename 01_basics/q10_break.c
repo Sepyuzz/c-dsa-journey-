@@ -3,7 +3,7 @@
 #include <stdio.h>
 int main(){
     int p;
-    printf("enter an amountn= ");
+    printf("enter an amount n= ");
     scanf("%d",&p);
     int l=p/500,m=(p-l*500)/200,n=(p-l*500-m*200)/100,
     o=(p-l*500-m*200-n*100)/50,q=(p-l*500-m*200-n*100-o*50)/20,
