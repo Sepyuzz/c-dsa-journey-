@@ -4,7 +4,7 @@ Started: September 2026
 
 ## C Fundamentals
 
-- [ ] Basics
+- [x] Basics
 - [ ] Conditionals
 - [ ] Loops
 - [ ] Patterns
