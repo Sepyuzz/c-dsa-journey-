@@ -5,7 +5,7 @@ Started: 14 September 2026
 ## C Fundamentals
 
 - [x] Basics
-- [ ] Conditionals
+- [x] Conditionals
 - [ ] Loops
 - [ ] Patterns
 - [ ] Functions
