@@ -8,7 +8,7 @@ Started: 14 September 2026
 - [x] Conditionals
 - [x] Loops
 - [x] Patterns
-- [ ] Functions
+- [x] Functions
 - [ ] Arrays
 - [ ] 2D Arrays
 - [ ] Strings
