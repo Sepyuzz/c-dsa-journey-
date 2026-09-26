@@ -7,7 +7,7 @@ Started: 14 September 2026
 - [x] Basics
 - [x] Conditionals
 - [x] Loops
-- [ ] Patterns
+- [x] Patterns
 - [ ] Functions
 - [ ] Arrays
 - [ ] 2D Arrays
