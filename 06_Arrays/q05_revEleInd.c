@@ -4,7 +4,7 @@ int main (){
     int n;
     printf("Enter size of array = ");
     scanf("%d",&n);
-    int num[n],m=0;
+    int num[n] ;
     for(int i=0;i<n;i++){
         printf("Enter %dth term of array = ",i);
         scanf("%d",&num[i]);
