@@ -10,7 +10,7 @@ int main(){
     printf("for matrix :\n");
     for(int i=0;i<N;i++){
         for(int j=0;j<M;j++){
-            printf("Enter %d,%d the term of matrix = ",i,j);
+            printf("Enter %d,%dth term of matrix = ",i,j);
             scanf("%d",&matrix[i][j]);
         }
     }
